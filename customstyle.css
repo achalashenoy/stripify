@@ -5,6 +5,11 @@ header {
 	color: #73bbde;	
 }
 
+container {
+	margin: auto;
+	width: 50%;
+}
+
 body {
 	background-color: #F0F0F0;
 	color: #65a4c2;
@@ -14,11 +19,11 @@ table {
 	border-collapse: collapse;
 }
 
-table, td {
+table, th {
 	border: 1px solid #A0A0A0;
 }
 
-td {
+th {
 	padding: 12px;
 	text-align: center;
 }
