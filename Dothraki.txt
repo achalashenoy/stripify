@@ -1,0 +1,2771 @@
+The Dothraki Language Dictionary (ver 3.11)
+Written by Lajaki (Richard Littauer)
+www.dothraki.org
+January 23rd , 2016
+
+This is the first available Dothraki dictionary. Dothraki is the language for the Dothraki people, a nomadic war-mongering race that ride the aptly-named Dothraki Sea steppes in George
+R.R. Martin’s series, A Song of Ice and Fire. It was created by David Peterson, of the Language
+Creation Society, for the HBO adaptation of the series: all copyright belongs to HBO and the
+LCS. This is a dictionary only of publicly made information, from posts on the LCS blog, the
+original books, David Peterson’s blog and personal emails. Words which have been created by
+David Peterson are listed as DP. Words created from the original book are listed as M. For more
+information, go to dothraki.org. As the main thrust of the vocabulary development is now on
+the wiki on Dothraki.org, an attempt is being made to keep these versions in sync. This dictionary is being maintained as it is more portable and searchable than the wiki. In the future, it
+can also better handle translations into other languages.
+Bold indicates a Dothraki word. Italics indicate the English definition. There are now separate, numbered entries for each word that has different definitions for different parts of speech
+(root words are generally excluded from this practice).
+Plain text indicates grammatical categorization: parentheses indicate extra information.
+The IPA indicates the correct pronunciation, and should now be fully up-to-date. Some transcriptions may have allomorphs, as in [qoj] or [qh oj].
+Transitivity for verbs is marked if known: vtr., for transitive verbs, and vin. for intransitive
+verbs; words marked v. are either unattested or ambitransitive, or their transitivity is unable
+to be deduced.
+Noun animacy is marked na. for animate nouns, and ni. for inanimate nouns. Nouns
+marked simply n. are at this time unattested for animacy.
+A capital letter ’B’, or lack thereof, following a part of speech indicates whether a word
+stem is ’type A’ or ’Type B’. Type B nouns generally take an epenthetic /e/ when they are
+shortened to stems, type A do not. All nouns whose stems end in /g/, /w/ or /q/ are type B,
+and there are some other type B endings as well. Note that the type A/B distinction applies to
+verbs as well. At this point in time, not all type B words are marked as such.
+Since the lexical form of Dothraki nouns and verbs are inflected forms, you will not see
+stems in this dictionary, except in a few rare cases. An attempt is being made to indicate the
+stems now, and it is hoped that eventually, all words with a questionable stem form will show
+the correct stem. If unsure of a stem form, consult the Dothraki vocabulary wiki.
+A few nouns are given with case endings when they have especially important meanings,
+or differ significantly in meaning from what the case ending normally implies.
+Stress markings have been removed, as the stress is fairly predictable, and will be more
+completely addressed in a future version of this dictionary.
+As the vocabularies for High Valyrian and Astapori Valyrian have grown, a few words
+derived from words in those languages have been noted. Expect to see more of these with
+1
+
+time.
+Numbers are also listed here where David Peterson specifically attested one-word terms
+for them. There is also now a numbers section in the appendices.
+The words herein should include all publicly known words. But if you find more words
+elsewhere, spot any errors or inconsistencies, or have any comments, please let me know on
+the forum. Thanks.
+This dictionary is updated to match the Wiki edit of 23 January 2016, 08:04z. Some edits to
+the wiki immediately after this dictionary update may only deal with new material added to
+the wiki that has been in the dictionary for some time, namely some number words.
+TEST MODE: Changes were recently made to the underlying code that drives the dictionary to remove a means of checking updates for accuracy, etc. offline. So, updates need to be
+checked online. If you see the word ’test’ following the version number, that means that the
+version is being actively updated, and is not considered ’released for general use’. Use test updates at your own risk. In general, the dictionary is in test mode for only an hour or so, every
+7-10 days. Come back in an hour or so, and the dictionary should be back in ’general release’
+state.
+Many praises and thanks go to Lajaki and Ingsve, who originally compiled this, and Tuiq,
+who originally put the coding online. Thanks also goes out to the folks at learnnavi.org, who
+now host the backend server and database (as well as our website), that generates this dictionary. Much of the maintenance of this dictionary is now being done by Hrakkar.
+
+2
+
+The Dictionary
+A
+>
+acchakat: [attSakat] DP vtr. to silence
+>
+achra: [ atSRa] DP adj. smelly
+>
+achrakh: [atSRax] DP ni. stink
+>
+achralat: [atSRalat] DP v. to be smelly, to give off
+a smell
+adakhat: [ad
+axat] DP v. to eat
+adakhilat: [ad
+axilat] DP v. to feed (specifically,
+to feed on or feast on)
+addakhat: [ad
+d
+axat] DP vtr. to feed
+>
+addo ajjalani: [ad
+d
+o addZalan
+i] DP n. midnight
+addothralat: [ad
+d
+oTRalat] DP vtr. to convey, to
+transport someone
+addrekat: [ad
+d
+Rekat] DP vtr. to cause to spill, to
+spill
+addrivat: [ad
+d
+Rivat] DP vtr. to kill (chiefly
+when done intentionally by a person)
+ador: [ad
+or] DP ni. chair
+adra: [ad
+Ra] DP na. turtle
+aena: [aen
+a] DP n. morning
+afazh: [afaZ] DP adj. hot
+afazhi: [afaZi] DP adj. warm
+affa (1): [affa] DP intj. whoa! (horse command)
+affa (2): [affa] DP intj. ’shh’, sound used to calm
+a horse or child
+affazhat: [affaZat] DP vtr. to warm, to give
+warmth to, to make hot
+affazolat: [affazolat] DP vtr. to replace
+affesat: [affesat] DP vtr. to make someone itch
+affin: [affin
+] DP adv. when
+affisat: [affisat] DP vtr. to clean, to wash
+afis: [afis] DP n. fly
+aggendat: [aggen
+d
+at] DP vtr. to rip something,
+to tear something
+ahesh: [aheS] DP ni. snow
+aheshke: [aheSke] DP ni. winter
+ahhaqat: [ahhaqAt] DP vtr. to frustrate
+ahhasat: [ahhasat] DP vtr. to sharpen
+ahhaz: [ahhaz] DP adv. then (in close or immediate future) cf. arrek
+ai: [ai] M intj. yes, obedient response
+>
+ajjalan: [addZalan
+] DP adv. tonight
+>
+ajjin: [addZin
+] DP adv. now
+akat: [akat] DP num. two
+akatak: [akatak] DP na. second (ordinal, use genitive form if modifying a noun.)
+
+akataki: [akataki] adj. second
+akatken: [akatken
+] DP num. two hundred
+akatthi: [akatTi] DP num. twelve
+akka: [akka] DP adv. also, too, as well, even, even
+so, reakkate: [akkate] DP adv. both, alike, the same
+way
+akkelenak: [akkelen
+ak] DP na. leader
+akkelenat: [akkelen
+at] DP v. to decide, to judge
+akko!: [akko] DP intj. stand up! (short for akkovaras, for commanding animals)
+akkovarat: [akkovaRat] DP v. to stand (something) up
+ale: [ale] DP adj. some
+alegra: [alegRa] DP ni-B. duck
+alikh: [alix] DP ni. more
+allayafat: [allajafat] DP vtr. to please
+alle: [alle] DP adv. farther, further
+alloshat: [alloSat] DP vtr. to pledge
+ammasat: [ammasat] DP v. to decorate
+ammattelat: [ammattelat] DP v. to hobble a person
+ammemat: [ammemat] DP v. to play a musical
+instrument
+ammenat: [ammen
+at] DP vtr. to empty something
+ammithrat: [ammiTRat] DP vtr. to rest
+anat (1): [an
+at] DP v. to jog
+anat (2): [an
+at] DP vtr. to gen. to jog beside
+anha: [an
+ha] DP pn. I
+anna: [an
+n
+a] DP pn. me
+annakhat: [an
+n
+axat] DP v. to stop (someone or
+something)
+annakholat: [an
+n
+axolat] DP vtr. to put an end
+to, to finish
+annese: [an
+n
+ese] DP ni. announcement
+annevalat: [an
+n
+evalat] DP vtr. to sit something,
+to leave something alone
+anni: [an
+n
+i] DP pn. of mine
+annithat: [an
+n
+iTat] DP v. to cause pain, to hurt
+annithilat: [an
+n
+iTilat] DP v. to encourage, to invigorate, to entice
+ao (1): [ao] DP adj. deep
+ao (2): [ao] DP adv. dark (of color)
+aqqisat: [aqqesat] DP vtr. to keep near
+3
+
+ataki: [ataki] DP adj. first
+ate: [ate] DP adv. first
+ath: [aT] DP adj. dry
+athaddrivar: [aTad
+d
+Rivar] DP ni. fatality
+athahhaqar: [aTahhaqAr] DP ni. frustration
+athaozar: [aTaozar] DP ni. depths, deep
+athasar: [aTasar] DP na. wasteland
+athastokhdeveshizar: [aTastoxd
+eveSizar] DP
+ni. nonsense
+athayozar: [aThajozar] DP ni. waiting
+>
+athchilar: [aTtSilar] DP ni. limit, lay, extreme
+>
+athchomar: [aTtSomar] DP ni. respect, reverence
+>
+>
+athchomar chomakea: [aTtSomar tSomakea]
+DP phrase respect to those that are respectful
+(A greeting said to a group)
+athdarinar: [aTd
+aRin
+ar] DP ni. lameness
+athdavrazar: [aTd
+avRazar] DP ni. usefullness
+(also means good or excellent when used
+as an exclamation.)
+athdikar: [aTd
+ikar] DP ni. speed
+athdisizar: [aTd
+isizar] DP ni. comfort, simplicity
+athdrivar: [aTd
+Rivar] DP ni. death
+athdrivar shekhi: [aTHd
+Rivar Sexi] DP ni. sunset
+athdrivar shekhi: [aTd
+RivaR Sexi] DP ni. sunset
+athdrivarido: [aTd
+RivaRid
+o] DP ni. nightmare
+athessazar: [aTessazar] DP ni. return
+athezar: [aTezar] DP ni. departure
+athezhirar: [aTeZiRar] DP ni. dancing
+athfiezar: [aTfiezar] DP ni. love (between siblings or friends)
+athgoshar: [aTgoSar] DP ni. certainty
+athhajar: [aThajar] DP ni. strength
+athhilezar: [aThilezar] DP ni. sex
+>
+athijezar: [aTidZezar] DP ni. woman-on-top sex
+>
+athjahakar: [aTdZahakar] DP ni. pride, prowess
+>
+athjerizar: [aTdZeRizar] DP ni discussion
+>
+athjilar: [aTdZilar] DP ni. correctness, rightness
+athkemar: [aTkemar] DP ni. marrige
+athlanar: [aTlan
+ar] DP ni. running
+athlaqar: [aTlaqAr] DP ni. wailing
+athlavakhar: [aTlavaxar] DP ni. loudness
+athmanimvenar: [aTman
+imven
+ar] DP ni. anxiousness
+athmharar: [aTmhaRar] DP ni. ache, soreness
+athmithrar: [aTmiTRar] DP ni. rest
+athmovezar: [aTmovezar] DP ni. magic
+athniqar: [aTn
+iqAr] DP ni. rigidity
+athnithar: [aTn
+iTar] DP ni. pain
+
+arakh: [aRax] M,DP ni. curved sword
+aranat: [aRan
+at] DP vtr. to drop (something)
+aranikh: [aRan
+ix] DP ni. subject, topic, theme
+arannat: [aRan
+n
+at] DP v. to be neglected
+aranne: [aRan
+n
+e] DP adv. carelessly
+aresak: [aResak] DP na. coward
+arraggat: [araggat] DP v. to choke
+arranat: [aran
+at] DP vtr. to shame, to cause to be
+merciful
+arrane: [aran
+e] DP n. shaming, a public dressing
+down
+arrek (1): [arek] DP adv. then (not in the immediate future) cf. ahhaz
+arrek (2): [arek] DP conj. when
+arrekaan: [arekaan
+] DP conj. until
+arrekoon: [arekoon
+] DP conj. from since
+arrissat: [arissat] DP v. to fix
+arrokhat: [aroxat] DP vtr. to frighten
+arthasat: [aRTasat] DP v. to fall
+arthasolat: [aRTasolat] DP v. to fall
+asavva: [asavva] DP na. sky
+ase: [ase] DP ni. word, command
+asfavirzeth: [asfaviRzeT] DP ni. cranberry
+ashefa: [aSefa] DP na. river
+asqoyi: [asqOji] DP ni. oath, vow
+assamvat: [assamvat] DP vtr. to break (something)
+asshekh (1): [aSSex] DP adv. today
+asshekh (2): [aSSex] DP ni. today
+asshekh (3): [aSSex] DP na. day
+asshekhqoyi: [aSSexqOji] DP ni. birthday
+asshie: [aSSie] DP n. introduction
+asshilat: [aSSilat] DP v. to introduce, to present
+assikhqoyi: [assixqOji] DP ni. sign, omen
+assikhqoyisir: [assixqOjisir] DP na. prophecy
+assilat (1): [assilat] DP v. to signal
+assilat (2): [assilat] DP vtr. to defeat
+assilat (3): [assilat] DP vtr. to all. to signal to
+assokh: [assox] DP ni. mesage, instructions
+assolat: [assolat] DP v. to command
+astat: [astat] DP v. to say
+astilat (1): [astilat] DP v. to joke
+astilat (2): [astilat] DP vtr. to gen. to joke about
+asto: [asto] DP n. saying, prayer
+astolat (1): [astolat] DP v. to speak
+astolat (2): [astolat] DP vtr. to gen. to speak of
+at: [at] DP num. one
+atak: [atak] DP na. first (ordinal, use genitive
+form if modifying a noun.)
+4
+
+athnithmenar: [aTn
+iTmen
+ar] DP ni. painlessness
+athohharar: [aTohhaRar] DP ni. collapse, defeat
+atholat: [aTolat] DP v. to dry
+athostar: [aTostar] DP ni. fury
+athrokhar: [aTRoxar] DP ni. fear
+athtihar: [aTtihar] DP ni. vision, look
+athvezhvenar: [aTveZven
+ar] DP ni. greatness,
+excellent (when used as an exclamation)
+>
+athvilajerar: [aTviladZeRar] DP ni. war
+athvillar: [aTvillar] DP ni. wisdom (gained from
+experience or learned)
+athyolar: [aTjolar] DP ni. birth
+athzalar: [aTzalar] DP ni. hope
+athzhikhar: [aTZixar] DP ni. sickness
+athzhilar: [aTZilar] DP ni. love (romantic or sexual love; a private word)
+athzhokwazar: [aTZokwazar] DP ni. size
+athzhowakar: [aTZowakar] DP ni. danger
+ato: [ato] DP ni. one, something
+atte: [atte] DP adv. first, firstly
+atthar: [aTTar] DP ni. duty
+atthasat: [aTTasat] DP v. to make someone/something fall, to defeat, to destroy (insulting)
+atthi: [aTTi] DP num. eleven
+atthirar: [aTTiRar] DP ni. life
+
+atthirarido: [aTThiRaRid
+o] DP ni. dream
+attihat: [attihat] DP vtr. to show
+ave: [ave] DP na. father
+avvemolat: [avvemolat] DP v. to make something to kneel
+avvirsalat: [avviRsalat] DP vtr. to burn something
+avvitisherat: [avvitiSeRat] DP vtr. to grow something
+avvos: [avvos] DP adv. never
+awazak: [awazak] DP na. screamer
+awazat: [awazat] DP v. to scream
+ayena: [ajen
+a] DP ni. bell
+ayolat: [ajolat] DP vin. to wait
+ayyathat: [ajjaTat] DP v. to lift
+ayyey: [ajjej] DP adv. always
+az: [az] DP ni. blade
+azhasavva: [aZasavva] DP ni. blessing
+azhat: [aZat] DP vtr. to give (something to someone) Recipient is in allative case
+azho: [aZo] DP ni. gift
+azzafrok: [azzafRok] DP na. slaver
+azzafrolat: [azzafRolat] DP vtr. to enslave
+azzisat: [azzisat] DP vtr. to harm someone
+azzohat: [azzohat] DP vtr. to put something
+down
+
+C
+>
+chaf: [tSaf] DP na. wind
+>
+chafak: [tSafak] DP na. mercenary, turncloak,
+traitor
+>
+chafasar: [tSafasar] DP na. climate
+>
+chafka: [tsafka] DP ni. autumn
+>
+chak: [tSak] DP adj. silent
+>
+chakat (1): [tSakat] DP num. twenty
+>
+chakat (2): [tSakat] DP vin. to be silent
+>
+chal: [tSal] DP ni. bean (general use)
+>
+challeya: [tSalleja] DP ni. bean (when used as
+food)
+>
+charat (1): [tSaRat] DP vtr. to hear
+>
+charat (2): [tSaRat] DP vtr. to abl. to hear some of
+>
+charat (3): [tSaRat] DP vtr. to gen. to hear about
+>
+chare: [tSaRe] DP ni. ear
+>
+charolat: [tSaRolat] DP v. to listen
+>
+che: [tSe] DP conj. either, or
+>
+chek: [tSek] DP adv. well
+
+>
+chekosshi: [tSekoSSi] DP adv. very well, excellently
+>
+chelsian: [tSelsian
+] DP na. locust
+>
+cheno: [tSen
+o] DP ni. liver
+>
+chetira: [tSetiRa] DP ni. a distance of about a half
+mile which can be cantered in one leshitof
+>
+chetirat (1): [tSetiRat] DP v. to canter
+>
+chetirat (2): [tSetiRat] DP vtr. to gen. to canter
+beside
+>
+cheyao: [tSejao] DP na. dark bay horse
+>
+cheyaoven: [tSejaoven
+] DP adj. dark brown skinned
+>
+chifekh: [tSifex] DP num. seventy
+>
+chifti: [tSifji] DP na. cricket
+>
+chiftik: [tSiftik] DP na. cricket man (used as an
+insult)
+>
+chiftikh: [tSiftix] DP ni. weak hit, glancing blow
+(with sword)
+>
+chilat: [tSilat] DP v. to lie down
+
+5
+
+>
+chilay: [tSilaj] DP adj. lying, supine
+>
+chimek: [tSimek] DP num. fifty
+>
+chiori: [tSioRi] DP na. woman, short form of chiorikem for ’wife’
+>
+chiorikem: [tSioRikem] DP ni. wife
+>
+chiqazat: [tSiqAzat] DP num. ninety
+>
+chir: [tSir] DP v.aux. almost, nearly
+>
+chisen: [tSisen
+] DP num. thirty
+>
+chitor: [tSitor] DP num. forty
+>
+chiva: [tSiva] DP ni. horn
+>
+chizhinda: [tSiZin
+d
+a] DP num. sixty
+>
+choakat: [tSoakat] DP v. to be bitter
+>
+chomak: [tSomak] DP na. one who is respectful
+(insulting when used for a fellow Dothraki)
+>
+chomat (1): [tSomat] DP v. to be respectul
+
+>
+chomat (2): [tSomat] DP vtr. to all. to respect
+>
+chomokh: [tSomox] DP ni. honor
+>
+chomolat (1): [tSomolat] DP vin. to grow respectful
+>
+chomolat (2): [tSomolat] DP vtr. to give respect
+to, to honor
+>
+chongat: [tSon
+gat] DP v. to be hard
+>
+chongolat: [tSon
+golat] DP v. to solidify
+>
+choo: [tSoo] DP na. pika
+>
+chori: [tSoRi] DP num. eighty
+>
+chorkat: [tSoRkat] DP v. to roll
+>
+chosh: [tSoS] DP adj. fresh
+>
+chot: [tSot] DP ni. beet
+>
+chotteya: [tSotteja] DP ni. beet paste
+>
+choyo: [tSojo] DP ni. joke word for someones behind
+
+D
+daeni: [d
+aen
+i] DP ni. leaf
+dahaan: [d
+ahaan
+] DP adj. green
+dahana: [d
+ahan
+a] DP ni. type of grass
+daki: [d
+aki] DP ni. pomegranate
+dalen: [d
+alen
+] DP num. thousand
+dalfe: [d
+alfe] DP ni. cow, beef
+dan (1): [d
+an
+] DP ni. ford (of a river)
+dan (2): [d
+an
+] DP ni. gem
+dana: [d
+an
+a] DP ni. clearing in a forest
+darif: [d
+aRif] DP ni. saddle
+darin: [d
+aRin
+] DP adj. lame, limp
+dave (1): [d
+ave] DP na. rosemary bush
+dave (2): [d
+ave] DP adj. pungent
+davra: [d
+avRa] DP adj. good, useful
+davrakh: [d
+avRax] DP ni. useful thing, app
+davralat (1): [d
+avRalat] DP vin. to be useful
+davralat (2): [d
+avRalat] DP vtr. to all. to be useful
+to
+davveya: [d
+avveja] DP ni. rosemary
+>
+dech: [d
+etS] DP ni. cheek (on the face)
+dei (1): [d
+ei] DP adj. shallow
+dei (2): [d
+ei] DP adv. light (of color)
+devesh: [d
+eveS] DP ni. fog
+devolat: [d
+evolat] DP vtr. to know how, to be able
+to
+diaf: [d
+aif] DP ni. skull
+dik: [d
+ik] DP adj. fast
+dili: [d
+ili] DP ni. flash, sparkle
+dinat: [din
+at] DP v. to pass
+
+dirgat: [d
+iRgat] DP v-B. to think
+dirge: [d
+iRge] DP ni. thought, idea
+dis: [d
+is] DP adj. simple, plain
+dishah: [d
+iSah] DP ni. bark
+disisse: [d
+isisse] DP adj. very simple
+disse: [d
+isse] DP adv. only, simply, exclusively,
+just
+diwe: [d
+iwe] DP adj. wet
+diwelat: [d
+iwelat] DP vin. to be wet
+dogat (1): [d
+ogat] DP vin. to suffer
+dogat (2): [d
+ogat] DP vtr. to abl. to suffer from
+donat (1): [d
+on
+at] DP v. to shout
+donat (2): [d
+on
+at] DP vtr. to gen. to shout about
+dorvi: [d
+oRvi] DP ni. goat
+dorvof: [d
+oRvof] DP ni. ibex
+dosh: [d
+oS] DP n. council
+dothrak: [d
+oTRak] DP na. rider
+dothrakh: [d
+oTRax] DP ni. ride
+dothrakhqoyi: [d
+oTRaxqOji] DP ni. bloodrider
+dothralat (1): [d
+oTRalat] DP v. to ride (With horse, steed, or my horse, my steed as the subject)
+dothralat (2): [d
+oTRalat] DP vtr. to gen. to ride
+alongside
+dothralat (3): [d
+oTRalat] DP v. to have an erection
+dozgikh: [d
+ozgix] DP ni. animal carcass
+dozgo: [d
+ozgo] DP ni, na. enemy (used as na.
+when referring to a specific enemy)
+dozgosor: [d
+ozgosor] DP na. enemy horde, slang
+for one’s own khalasar
+6
+
+drane: [d
+Ran
+e] DP na. mother who is breastfeeding her child
+dranekh: [d
+Ran
+ex] DP ni. mother’s milk (human
+milk)
+drekat: [d
+Rekat] DP vin. to spill (non volitional
+e.g. the milk spilled)
+drekolat: [d
+Rekolat] DP vtr. to come to spill, to
+tip over and spill
+
+driv: [d
+Riv] DP adj. dead
+drivat: [d
+Rivat] DP vin. to be dead
+drivolat (1): [d
+Rivolat] DP vin. to die
+drivolat (2): [d
+Rivolat] DP vtr. to abl. to die from
+drogat: [d
+Rogat] DP vtr-B. to drive (animals)
+drogikh: [d
+Rogix] DP ni. herd
+drozhat: [d
+RoZat] DP vtr. to slay, to kill (done by
+inanimate object, animals, or unawares)
+
+E
+edavrasa: [ed
+avRasa] DP adj. useless, of poor
+quality
+efat: [efat] DP v. to squeeze
+efe: [efe] DP ni. shackle
+efesalat: [efesalat] DP vtr. to uproot, to scratch
+>
+efichisalat: [efitSisalat] DP v. to disagree
+ei: [ei] DP det. all, every
+>
+ejakh: [edZax] DP ni. bank (of a body of water)
+>
+ejervalat: [edZeRvalat] DP v. to remove
+ekhogaralat: [exogaRalat] DP v. to undress
+elain: [elain
+] DP n. seed, sperm
+elainat: [elain
+at] DP v. to plant
+elat (1): [elat] DP v. to go
+elat (2): [elat] DP vtr. to gen. to go along with
+eleisosakh: [eleisosax] DP ni. point on a route,
+’via point’
+elme: [elme] DP ni. shoulder
+elzat: [elzat] DP v. to respond
+elzikh: [elzix] DP ni. response
+emat (1): [emat] DP vin. to smile
+emat (2): [emat] DP vtr. to all. to smile at, to approve of
+eme: [eme] DP ni. smile
+emesh: [emeS] DP ni. smiley
+emmalat: [emmalat] DP vtr. to make something
+enter (from emralat)
+emmat: [emmat] DP vtr. to amuse
+emrakh: [emRax] DP ni. gate
+emralat: [emRalat] DP v. to enter
+enossho: [en
+oSSo] DP ni. mule
+enta: [en
+ta] DP n. baby, infant
+eqorasalat: [eqORasalat] DP vtr. to let go of
+erin: [eRin
+] DP adj. kind, good
+erinak: [eRin
+ak] DP na. lady, kind one
+erinat: [eRin
+at] DP v. to be kind, to be good
+ershe: [eRSe] DP adj. old
+es: [es] DP adj. smooth
+
+esazhalat: [esaZalat] DP v. to take something
+back
+esemrasakh: [esemRasax] DP ni. exit
+esemrasalat: [esemRasalat] DP v. to exit, to leave
+eshat: [eSat] DP v. to get up
+eshina: [esSin
+a] DP n. fish
+eshna: [eSn
+a] DP adv. another, other
+esina: [esin
+a] DP adj. different
+esinakh: [esin
+ax] DP ni. a different thing
+esinalat: [esin
+alat] DP vin. to be different
+esinasolat: [esin
+asolat] DP vin. to change
+esittesak: [esittesak] DP na. braggart, blowhard
+esittesalat: [esittesalat] DP v. to brag, to exaggerate
+essalat: [essalat] DP vin. to return
+essheya: [eSSeja] DP ni. roof, top part, top
+eth: [eT] DP v.aux. must, have to
+evat: [evat] DP vtr. to start doing something
+(used with a verb)
+eve: [eve] DP ni. tail
+eveth: [eveT] DP ni. water
+evethiz: [eveTiz] DP ni. poison water
+evolat: [evolat] DP vin. to start
+evoon: [evoon
+] DP adv. all along, the whole time,
+from the beginning
+evvat: [evvat] DP vtr. to start something
+ewe: [ewe] DP n. olive
+ewekh: [ewex] DP ni. olive oil
+ewweya: [ewweja] DP ni. olive pit
+eyak: [ejak] DP pn. everyone
+eyel: [ejel] DP ni. rain
+eyelat: [ejelat] DP vtr. to move something
+eyeli: [ejeli] DP adj. spotted (e.g. the status of
+having spots)
+eyelilat: [ejelilat] DP vin. to be spotted (e.g. the
+state or status of having spots)
+eyelke: [ejelke] DP ni. spring
+ezat: [ezat] DP v. to find
+7
+
+ezhirat: [eZiRat] DP vin. to dance
+ezhiray: [eZiRaj] DP adj. dancing
+ezok: [ezok] DP na. learner
+
+ezolat: [ezolat] DP v. to learn
+ezzolat: [ezzolat] DP v. to teach
+
+F
+fakat (1): [fakat] DP vtr. to kick
+fakat (2): [fakat] DP vtr. to all. to kick at
+fansa: [fan
+sa] DP n. dappled horse
+faqqi: [faqqe] DP na. corn bunting (a bird)
+fas: [fas] DP n. cloud
+fasqoyi: [fasqOji] DP ni. destiny
+fatat (1): [fatat] DP vtr. to slap
+fatat (2): [fatat] DP vtr. to all. to slap at
+fatilat (1): [fatilat] DP vtr. to insult
+fatilat (2): [fatilat] DP vtr. to all. to throw an insult at
+>
+fejat: [fedZat] DP v. to hate
+fekh: [fex] DP num. seven
+fekhak: [fexak] DP na. seventh (ordinal, use genitive form if modifying a noun.)
+fekhken: [fexken
+] DP num. seven hundred
+fekhthi: [fexTi] DP num. seventeen
+felde: [feld
+e] DP ni. wing
+feldekh: [feld
+ex] DP ni. feather
+fenat: [fen
+at] DP vtr. to attach
+ferri: [feri] DP ni. hemp
+feshith: [feSiT] DP na. tree
+feso: [feso] DP ni. carrot
+fevelat (1): [fevelat] DP vin. to thirst
+fevelat (2): [fevelat] DP vtr. to abl. to thirst for
+>
+fichat: [fitSat] DP vtr. to take, to bring, to fetch
+fiez: [fiez] DP n. rope
+fih: [fih] DP ni. smoke
+filkak: [filkak] DP na. coward
+filkat: [filkat] DP vin. to move like a caterpillar
+filki: [filki] DP ni. caterpillar
+filla: [filla] DP ni. dried plum
+fin (1): [fin
+] DP pn. who (question word, when
+speaking of an animate object)
+fin (2): [fin
+] DP pn. relative pronoun that introduces relative clause, when speaking of an animalte object
+fini (1): [fin
+i] DP pn. what (question word,
+when speaking of an inanimate object)
+
+fini (2): [fin
+i] DP pn. relative pronoun that introduces relative clause, when speaking of an inanimate object
+finne (1): [fin
+n
+e] DP pn. where
+finne (2): [fin
+n
+e] DP adv. where
+fir: [fir] DP adj. round
+fire: [fiRe] DP ni. ring, circle
+firesof: [fiResof] DP ni. year
+firi: [fiRi] DP n. ball
+firikh: [fiRix] DP ni. ring
+firikhnharen: [fiRixn
+haRen
+] DP ni. crown
+fish: [fiS] DP adj. cold
+fitte: [fitte] DP adj. short
+fitteya: [fitteja] DP ni. an unnoticed and
+uncalled-for erection
+flas: [flas] DP ni. a film on top of a soup, cream
+flasikh: [flasix] DP ni. update
+>
+flech: [fletS] DP adj. dull
+fonak: [fon
+ak] DP na. hunter
+fonakasar: [fon
+akasar] DP na. hunting party
+>
+fonas chek: [fon
+as tSek] DP phrase said at parting lit. hunt well
+fonat: [fon
+at] DP v. to hunt
+fonnoya: [fon
+n
+oja] DP ni. advice
+fonolat: [fon
+olat] DP vtr. to track, to seek
+fotha: [foTa] DP ni. throat
+foz: [foz] DP adj. old
+fozak: [fozak] DP na. elder
+frakhat (1): [fRaxat] DP vtr. to touch
+frakhat (2): [fRaxat] DP vtr. to all. to reach to
+touch
+frakholat: [fRaxolat] DP vtr. to feel
+fredri: [fRed
+Ri] DP n. sound of horse’s hooves on
+dirt
+fredrik: [fRed
+Rik] DP na. chatterbox, one who
+sounds like horse’s hooves
+fredrilat: [fRed
+Rilat] DP vin. to run (with horses
+as subject)
+
+8
+
+G
+>
+gachat: [gatSat] DP v. to figure out, to solve
+>
+gache: [gatSe] DP ni. place, environs
+gadim: [gad
+im] DP ni. lungs
+gaezo: [gaezo] DP n. brother
+gale: [gale] DP n. egg
+gamiz: [gamiz] DP ni. rice
+ganat: [gan
+at] DP v. to lean
+gango: [gan
+go] DP ni. belly
+gango awazat: [gan
+go awazat] DP v. to feel anxious/excited
+gaoli: [gaoli] DP n. intestines
+garfoth: [gaRfoT] DP n. root
+garvolat (1): [gaRvolat] DP vin. to grow hungry
+garvolat (2): [gaRvolat] DP vtr. to abl. to hunger
+for
+gavat: [gavat] DP ni. meat
+gehqoyi: [gehqOji] DP ni. bolas
+gendat: [gen
+d
+at] DP vin. to be ripped, to be torn
+gende (1): [gen
+d
+e] DP n. rip
+gende (2): [gen
+d
+e] DP adj. ripped
+gendolat: [gen
+d
+olat] DP vin. to become ripped,
+to rip
+gerat: [geRat] DP vtr. to abl. to lack
+
+gerikh: [geRix] DP ni. lack
+geve: [geve] DP na. mole
+gezri: [gezRi] DP na. snake
+gezrikh: [gezRix] DP ni. a feint or decoy strike
+(with sword)
+gidat: [gid
+at] DP v. to push
+gillo: [gillo] DP n. breeze
+gillosor: [gillosor] DP na. weather
+gimi: [gimi] DP n. mouse
+giz: [giz] DP n. bee
+gizikh: [gizix] DP ni. honey
+gizikhven: [gizixven
+] DP adj. sweet
+glas: [glas] DP n. onion
+glen: [glen
+] DP n. louse
+gomma: [gomma] DP n. mouth of a human
+gorat: [goRat] DP v. to charge a horse
+goshat: [goSat] DP v. to be certain, to be sure
+govak: [govak] DP na. fucker (insult)
+govat: [govat] DP vtr. to mate (animals); to breed
+graddakh (1): [gRad
+d
+ax] DP ni. waste, refuse
+graddakh (2): [gRad
+d
+ax] DP intj. shit (generic
+undirected profanity)
+gref: [gRef] DP n. wall
+gwe: [gwe] DP intj. Here!, Let’s go!, Go!
+
+H
+h’: [h] DP prep. elided version of ha
+ha (1): [ha] DP prep. to abl. from
+ha (2): [ha] DP prep. to all. for
+ha nakhaan: [ha n
+axaan
+] DP adv. finally, last,
+ultimately
+hadaen: [had
+aen
+] DP ni. food
+hador: [had
+or] DP n. gust of wind
+haesh: [haeS] M ni. spawn
+haf: [haf] DP adj. soft, quiet
+>
+haj: [hadZ] M adj. strong
+>
+haje: [hadZe] DP adj. right (direction)
+>
+hajekh: [hadZex] DP ni. right side
+>
+haji (1): [hadZi] DP prep. to abl. because of, on
+account of
+>
+haji (2): [hadZi] DP prep. Default preposition for
+foreign words thet do not decline
+>
+hajinaan: [hadZin
+aan
+] DP conj. because (followed by prefix me-)
+>
+hajolat: [hadZolat] DP v. to grow strong
+hake: [hake] DP na. name
+
+hakelat: [hakelat] DP v. to name something
+hakeso: [hakeso] DP adj. famous
+halah: [halah] DP na. flower
+halahi: [halahi] DP ni. tree that can blossom
+hale: [hale] DP intj. hey! (exclamation)
+hammi: [hammi] DP n. yak
+hanna: [han
+n
+a] DP ni. rose
+haqat: [haqAt] DP v. to be tired
+haqe: [haqE] DP adj. tired
+haqeqqe: [haqEqqE] DP adj. exhausted
+haqolat: [haqOlat] DP v. to grow tired
+has: [has] DP adj. sharp
+hash (1): [haS] DP conj. if...then, when...then
+hash (2): [haS] DP part. do (question word)
+hash yer ray nesi: [haS jer raj n
+esi] DP phrase
+did you know?
+hatif (1): [hatif] DP n. face
+hatif (2): [hatif] DP prep. to gen. in front of, before
+hatif (3): [hatif] DP prep. to all. to front of, to
+9
+
+before
+hatif (4): [hatif] DP prep. to abl. from front of,
+from before
+havazh: [havaZ] DP ni. sea
+havolat: [havolat] DP v. to move weakly
+havon: [havon
+] DP n. bread From Valyrian havon
+havzi: [havzi] DP n. cat
+havziven: [havziven
+] DP adj. lazy
+haz (1): [haz] DP dem adj. that (when speaking
+of an object present and directly indicated)
+haz (2): [haz] pn. that (when speaking of an
+animate object present and directly indicated)
+hazak: [hazak] DP dem. pn. that (when speaking of person(s) present and directly indicated)
+hazi: [hazi] DP pn. that (when speaking of an
+inanimate object present and directly indicated)
+hazze: [hazze] DP loc. adv. there
+heffof: [heffof] DP ni. jug
+hem: [hem] DP ni. fur
+heme: [heme] DP adj. furry
+hemelat: [hemelat] DP v. to have fur
+hemikh: [hemix] DP ni. pelt
+hesk: [hesk] DP adj. southern
+heske: [heske] DP ni. south
+heth: [heT] DP ni. rim, lips (of a person)
+hethkat: [heTkat] DP v. tight; ready, prepared
+hethke: [heTke] DP adj. tight; ready, prepared
+
+hezhah: [heZah] DP adv. far, off, hence
+hezhahat: [heZahat] DP v. to make distance, to
+travel, to navigate
+hilelat: [hilelat] DP vtr. to dig, to have sex, to hit
+(score with someone sexually)
+himat: [himat] DP vin. to clench
+himo: [himo] DP n. fist, clenched thing
+hiri!: [hiRi] DP intj. watch! (short for vitihiras,
+for commanding animals)
+hlaka: [hlaka] DP ni. glove
+hlizif: [hlizif] DP na. bear
+hlizifikh: [hlizifix] DP ni. a wild but powerful
+sword strike
+hlofa: [hlofa] DP ni. wrist, ankle
+holat: [holat] DP v. to blow
+hosh: [hoS] DP intj. giddyup! (horse command)
+hoshor: [hoSor] DP adj. golden
+hoska: [hoska] DP na. mouth of an animal
+hoyalat: [hojalat] DP v. to sing
+hoyali: [hojali] DP ni. song
+hrakkar: [hRakkar] M na. white lion
+hrakkarikh: [hRakkaRix] DP ni. a quick, powerful, accurate sword strike
+hranna: [hRan
+n
+a] M ni. a type of grass, any grasslike ground cover (Accusative form is hran)
+hrazef: [hRazef] DP ni. horse
+>
+hrazef chafi: [hRazef tSafi] DP ni. mustang, a
+horse that used to be tame
+hrazefeser: [hRazefeser] DP na. herd of wild horses, ’traffic’
+
+I
+iddelat: [id
+d
+elat] DP vtr. to welcome, to make someone drink
+idiro: [id
+iRo] DP na. owl
+idirolat: [id
+iRolat] DP v. to suddenly turn completely around (as if by surprise), make a "Uturn"
+ido: [id
+o] DP adj. wooden, fake
+idrik: [id
+Rik] DP na. leader of the hunt, host
+idrilat: [id
+Rilat] DP vtr. to guide
+ifak: [ifak] DP na. foreigner
+ifat (1): [ifat] DP vin. to walk
+ifat (2): [ifat] DP vtr. to gen. to walk beside
+ifeqevron: [ifeqEvRon
+] DP n. species of forest spider
+iffat: [iffat] DP vtr. to make someone walk
+
+iffi: [iffi] DP n. victory
+igge: [igge] DP n. bucket
+>
+ijelat: [idZelat] DP v. to swallow, to practice
+woman-on-top sex
+ikh: [ix] DP ni. ashes
+ildat: [ild
+at] DP v. to strike
+ildo: [ild
+o] DP ni. sword strike
+ilek: [ilek] DP n. skin
+ilme: [ilme] DP ni-B. vegetable
+ilmeser: [ilmeser] DP n. salad, greens, vegetables
+imesh: [imeS] DP adj. young
+imeshat: [imeSat] DP v. to be young
+imo: [imo] DP ni. belt
+inavva: [in
+avva] DP n. sister
+indelat: [in
+d
+elat] DP v. to drink
+
+10
+
+inte: [in
+te] DP ni. beetle
+irge (1): [iRge] DP n. back
+irge (2): [iRge] DP prep. to gen. after
+irge (3): [iRge] DP prep. to all. to behind
+irge (4): [iRge] DP prep. to abl. from behind
+irra: [ira] DP n. trout
+irvosa: [iRvosa] DP ni. a distance of approximately one fourth mile
+irvosat: [iRvosat] DP v. to trot
+ish: [iS] DP v.aux. might
+ishish: [iSiS] DP adv. maybe
+iste: [iste] DP adj. well proven, well tested
+ita: [ita] DP adj. suitably warm
+
+ithkoil: [iTkoil] DP adj. brittle
+ittelat: [ittelat] DP vtr. to make something wellproven, to test in action
+ivezh: [iveZ] DP adj. wild
+ivezho: [iveZo] DP ni-B. beast
+ivezholat: [iveZolat] DP vin. to grow fierce
+ivisat: [ivisat] DP vin. to melt
+ivvisat: [ivvisat] DP v. to melt something
+izat: [izat] DP vin. to be poisonous, to be venomous
+ize: [ize] DP ni. poison
+izven: [izven
+] DP adj. forbidden
+izzat: [izzat] DP vtr. to poison
+
+J
+>
+jadat: [dZad
+at] DP v. to come
+>
+jadilat: [dZad
+ilat] DP vtr. to approach, to come up
+to
+>
+jadolat: [dZad
+olat] DP v. to arrive
+>
+jadro: [dZad
+Ro] DP ni. vulture
+>
+jahak: [dZahak] DP na. Dothraki hair-braid, lion’s mane, hairstyle
+>
+jahakmen: [dZahakmen
+] DP adj. braidless
+>
+jalan: [dZalan
+] DP na. moon
+>
+jalan qoyi: [dZalan
+ qOji] DP n. harvest moon
+>
+jalanqoyi: [dZalan
+qOji] DP ni. total lunar eclipse
+>
+janha: [dZan
+ha] DP n. blanket
+>
+janise: [dZan
+ise] DP na. niece
+>
+jano: [dZan
+o] DP ni. dog
+>
+jaqqa: [dZaqqA] DP n. executioner, someone responsible for someone’s death
+>
+jaqqa rhan: [dZaqqA Rhan
+] M n. mercy men (not
+literal translation)
+>
+jasat: [dZasat] DP v. to laugh
+>
+javrath: [dZavRaT] DP ni reins
+>
+javrathat: [dZaRaTat] DP vtr. to rein, to check or
+guide a horse with the reins
+>
+jazat: [dZazat] DP v. to block
+>
+jazo: [dZazo] DP ni. block, an instance of blocking
+>
+jedda: [dZed
+d
+a] DP ni. pony
+>
+jekhtat (1): [dZextat] DP vin. to bounce, to ricochet
+>
+jekhtat (2): [dZextat] DP vtr. to abl. to bounce
+off of
+>
+jela: [dZela] DP ni. lemon
+>
+jelaven: [dZelaven
+] DP adj. sour
+>
+jelli: [dZelli] DP ni. cheese
+
+>
+jerak: [dZeRak] DP na. trader, merchant
+>
+] DP na.
+jerak sewafikhaan: [dZeRak sewafixaan
+wine merchant
+>
+jerakasar: [dZeRakasar] DP na. trader’s guild,
+"company"
+>
+jerat: [dZeRat] DP v. to trade
+>
+jerriya: [dZeriya] DP ni. discussion
+>
+jervat: [dZeRvat] DP v. to imprison
+>
+jesat: [dZesat] DP v. to pull
+>
+jeser: [dZeser] DP n. market
+>
+jesh: [dZeS] DP ni. ice
+>
+jesho: [dZeSo] DP adj. frozen
+>
+jesholat: [dZeSolat] DP v. freeze
+>
+jeshoy: [dZeSoj] DP adj. freezing
+>
+jeshven: [dZeSven
+] DP adj. icy
+>
+jezat: [dZezat] DP v. to block (a strike)
+>
+jif: [dZif] DP v.aux. should
+>
+jil: [dZil] DP adj. right, rightful
+>
+jilat: [dZilat] DP v. to be right, to be correct
+>
+jim: [dZim] DP adj. western
+>
+jimma: [dZimma] DP ni. west
+>
+] DP dem adj. this
+jin (1): [dZin
+>
+jin (2): [dZin
+] DP na. female goat
+>
+jin (3): [dZin
+] DP pn. this (when speaking of an
+animate object)
+>
+jinak: [dZin
+ak] DP dem. pn. this (when speaking of person(s) )
+>
+jini: [dZin
+i] DP pn. this (when speaking of an
+inanimate object)
+>
+jinne: [dZin
+n
+e] DP loc. adv. here
+>
+jith: [dZiT] DP na. fox
+>
+jiz: [dZiz] DP na. chicken
+
+11
+
+>
+at] DP v. to cook
+jolinat: [dZolin
+>
+jolinikh: [dZolin
+ix] DP ni. prepared food
+>
+jolino: [dZolin
+o] DP ni. cooking pot
+
+>
+joma: [dZoma] DP ni. salmon
+>
+jon: [dZon
+] DP adj. closed, shut, sealed
+>
+joro: [dZoRo] DP ni. idol, icon
+>
+jorok: [dZoRok] DP ni/na. corn
+
+K
+k’: [k] DP prep. elided version of ki
+kadat: [kad
+at] DP v. to capture, to wrangle, to
+corral
+kade: [kad
+e] DP ni. net
+kadikh: [k
+ad
+ix] DP ni. untamed captured animal
+kafat: [kafat] DP v. to smash
+kafe: [kafe] DP n. pestle
+kaffat: [kaffat] DP v. to crush
+kane: [kan
+e] DP na. lark
+karlina: [kaRlin
+a] DP ni. mile, distance traveled
+in one leshitof
+karlina Valeri: [kaRlin
+a valeRi] DP ni. kilometer
+(measure)
+karlinat (1): [kaRlin
+at] DP v. to gallop
+karlinat (2): [kaRlin
+at] DP vtr. to gen. to gallop
+beside
+karlinqoyi: [kaRlin
+qOji] DP ni. to gallop fast
+enough to kill a horse, if prolonged
+kartat: [kaRtat] DP vtr. to pull with both hands
+kartolat: [kaRtolat] DP vtr. to pull with other means than with arms (can be used of inanimate
+subjects)
+kash: [kaS] DP conj., adv. while, when, until, during, then
+kashat: [kaSat] DP v. to last
+kashi: [kaSi] DP ni. time
+>
+kathjilari: [kaTdZilaRi] DP adv. rightfully, right
+kathqoyi: [kaTqOji] DP ni. weighted net
+kazga: [kazga] DP adj. black
+kelen: [kelen
+] DP adj. patterned, orderly
+kem: [kem] DP adj. conjoined, married
+kemak: [kemak] DP na. spouse
+kemat: [kemat] DP vtr. to conjoin, to marry (someone to someone else) (the latter is preceeded by the preposition ma)
+kemik: [kemik] DP na. ally
+kemis: [kemis] DP n. dried fig
+kemisolat: [kemisolat] DP vtr. to ally with someone (Use with the preposition ma.)
+kemolat: [kemolat] DP v. to marry (someone)
+precede that someone with the preposition
+ma
+
+ken: [ken
+] DP num. hundred
+kenak: [ken
+ak] DP num. hundredth
+kendra: [ken
+d
+Ra] DP ni. opal
+kerikh: [keRix] DP ni. stick
+kesselat: [kesselat] DP v. to carry
+kha: [xha] DP na. a personal bodyguard
+khado: [xad
+o] DP na. body
+khadokh: [xad
+ox] DP ni. corpse
+khal: [xal] M na. Title used for the leader of a Dothraki horde, king
+khalakka: [xalakka] M na. prince, son of a khal
+khalakki: [xalakki] DP na. princess, daughter of
+a khal
+khalasar: [xalasar] M na. a horde loyal to a single
+khal
+khaleesi: [xaleesi] M na. queen, wife of a khal
+khaleessiya: [xaleessija] DP ni. handmaid
+khaor: [xaor] DP ni. waist
+khas: [xas] M na. short for khasar
+khasar: [xasar] M na. small group of protectors,
+bloodriders, generals
+khefat: [xefat] DP v. to sneeze
+kher: [xer] DP ni. flesh, skin of an animal
+kherikh: [xeRix] DP ni. leather
+khewo: [xewo] DP ni. worm
+khezhat: [xeZat] DP v. to be sad
+khiro: [xiRo] DP ni. flag
+khizra: [xizRa] DP ni. marsh
+khogar: [xogar] DP ni. word for one’s apparel,
+clothes
+khogarat: [xogaRat] DP v. to dress
+khogari: [xogaRi] DP ni. box, trunk, chest, cask
+ki (1): [ki] DP prep. to gen. by, because of, of
+ki (2): [ki] DP prep. thus, that (when preceeding quoted speech)
+kifindirgi: [kifin
+d
+iRgi] DP adv. why
+kifinosi: [kifin
+osi] DP adv. how
+>
+kijinosi: [kidZin
+osi] DP adv. thus, in this way
+kim (1): [kim] DP na. ancestor
+kim (2): [kim] DP adj. original
+kimikh: [kimix] DP ni. date (fruit of a date
+palm)
+
+12
+
+kimisir: [kimisir] DP na. ancestry
+kirekhdirgi: [kiRexd
+iRgi] DP conj. why
+kirekosi: [kiRekosi] DP conj. how
+kis: [kis] DP v.aux. to try to
+kisha: [kiSa] DP pn. we
+kishi: [kiSi] DP pn. our
+ko: [ko] M na. bodyguard
+koala: [koala] DP ni-A. medicine
+koalak: [koalak] DP na. healer (chiefly a male
+healer)
+koalakeesi: [koalakeesi] DP na. female healer
+koalakhtihan: [koalaxtihan
+] DP ni. eye healer
+koalat: [koalat] DP vin. to be of help
+
+koge: [koge] DP ni. nick, blemish, imperfection,
+flaw
+kogmen: [kogmen
+] DP adj. flawless
+kohol: [kohol] DP ni. bow
+kolat: [kolat] DP v. to cure, to heal
+kolver: [kolver] DP na. eagle
+kolverikh: [kolveRix] DP ni. a straight sword thrust
+kovarat: [kovaRat] DP v. to stand
+>
+krazaaj: [kRazaadZ] DP ni. mountain
+krista: [kRista] DP na. female relative
+kristasof: [kRistasof] DP ni. grandmother
+krol: [kRol] DP n. flea
+
+L
+lain: [ain
+l ] DP adj. beautiful (used for inanimate nouns)
+lainat: [ain
+l at] DP vin. to be beautiful (used for
+inanimate nouns)
+>
+lajak: [a
+l dZak] DP na. fighter, warrior
+>
+lajasar: [a
+l dZasar] DP na. army
+>
+lajat: [a
+l dZat] DP v. to fight
+>
+lajilat: [a
+l dZilat] DP v. to spar, to train, to play, to
+compete (introduce the game to play with ki
+)
+lakkhat: [axxat
+l
+] DP v. to chew
+lame: [ame
+l
+] DP ni. mare
+lamekh: [amex
+l
+] DP ni. mare’s milk (plain or
+fermented)
+lamekh ohazho: [amex
+l
+ohaZo] DP ni. fermented mare’s milk
+lanat (1): [an
+l at] DP v. to run
+lanat (2): [an
+l at] DP v. to gen. to run beside
+lanlekhi: [an
+l exi
+l ] DP ni. eating spree for a special taste
+lanqoyi: [an
+l qOji] DP ni. killing spree
+laqat: [aqAt
+l
+] DP v. to cry, to weep
+laqikh: [aqex
+l
+] DP n. tear, tears
+lashfak: [aSfak
+l
+] DP ni. stew
+lavakh: [avax
+l
+] DP adj. loud
+lavakhat: [avaxat
+l
+] DP v. to be loud
+layafat: [ajafat
+l
+] DP vin. to be happy
+laz (1): [az
+l ] DP v.aux. could (assigns past tense)
+laz (2): [az
+l ] DP v.aux. can (assigns present tense)
+lei (1): [ei
+l ] DP na. ghost, adult whose body was
+not burned
+
+lei (2): [ei
+l ] DP adj. lost
+leishak: [eiSak
+l
+] DP na. orphan
+lekh (1): [ex
+l ] DP na. language
+lekh (2): [ex
+l ] DP ni. tongue
+lekh dothraki: [lex d
+oTRaki] DP np. Dothraki
+(language)
+lekhaan: [exaan
+l
+] DP n. enough, sufficiently
+lekhi: [exi
+l ] DP ni. taste
+lekhilat: [exil
+l at] DP v. to taste
+lekhmove: [exmove
+l
+] DP ni. constructed language
+lenta: [en
+l ta] DP n. neck, stem
+leqse: [eqse
+l
+] DP ni rat
+leshitat: [eSit
+l at] DP v. to breathe
+leshitof: [eSit
+l of] DP ni. time period of approximately 2 minutes
+lir: [ir
+l ] DP ni. tattoo
+lirak: [iRak
+l
+] DP na. tattoo artist
+lirat: [iRat
+l ] DP vtr. to tattoo
+lirikh: [iRix
+l ] DP ni. An image or symbol depicted
+on a tattoo
+lirisir: [iRisir
+l
+] DP ni. tattoos (irregular plural)
+lirisirazo: [iRisiRazo
+l
+] DP ni. bladed writing
+liwalat: [iwal
+l at] DP v. to tie
+>
+lojat (1): [o
+l dZat] DP vtr. to hit, to run off
+>
+lojat (2): [o
+l dZat] DP vtr. to all. to hit at
+lommat: [ommat
+l
+] DP v. to bathe
+loqam: [oqAm
+l
+] DP n. arrow
+lorat: [oRat
+l ] DP v. to wink
+lorrat: [orat
+l ] DP v. to blink
+loshak: [oSak
+l
+] DP na. guard
+loshat: [oSat
+l ] DP v. to carry (in a cart, sack, child
+in the womb), to contain
+
+13
+
+lost: [ost
+l ] DP adj. disappointed
+loy (1): [oj
+l ] DP ni. puddle
+lostat: [ost
+l at] DP v. to disappoint, to miss (fail loy (2): [oj
+l ] DP det. to gen. some, few, any, a bit
+to see or recognize)
+of
+M
+m’ (1): [m] DP prep. elided version of ma
+m’ (2): [m] DP prefix elided version of me- a
+complementizer used to introduce subordinate clauses
+>
+m’ach: [matS] DP intj. hi (a shortened version
+of m’athchomaroon)
+m’ath: [maT] DP intj. hi (a shortened version of
+m’athchomaroon)
+>
+m’athchomaroon: [maTtSomaRoon] DP phrase
+with respect (said in greeting)
+ma (1): [ma] DP conj. and
+ma (2): [ma] DP prep. to abl. with
+madat: [mad
+at] DP v. to sew
+mae: [mae] DP pn. him, her, it, his, her/hers, its
+(both third person and possessive forms)
+maegi: [maegi] M ni. sorceress, witch
+mafo: [mafo] DP na. young goat, kid
+mahrazh: [mahRaZ] DP na. man, short form of
+mahrazhkem for ’husband’
+mahrazhkem: [mahRaZkem] DP ni. husband
+mai: [mai] DP na. mother
+>
+majin: [madZin
+] DP conj. and then, then, so, and
+so, consequently
+malilat: [malilat] DP vin. to be finished
+manimven: [man
+imven
+] DP adj. anxious
+manin: [man
+in
+] DP ni. young male horse
+marilat: [maRilat] DP v. to construct
+marriya: [marija] DP ni-A. tool
+mas: [mas] DP n. valuable
+mattek: [mattek] DP na. limper (insult)
+mattelat: [mattelat] DP v. to limp
+mawizzi: [mawizzi] DP ni. rabbit
+me: [me] DP pn. he, she, it
+me orzo!: [me oRzo] DP phrase it’s a trap!
+mehas: [mehas] DP pn. pronominal version of
+preposition ha
+mek: [mek] DP num. five
+mekak: [mekak] DP na. fifth (ordinal, use genitive form if modifying a noun.)
+mekis: [mehis] DP pn. pronominal version of
+preposition ki
+mekken: [mekken
+] DP num. five hundred
+mekthi: [mekTi] DP num. fifteen
+
+mel: [mel] DP adj. bad, evil
+melat: [melat] DP vin. to be evil
+melikh: [melix] DP ni. occurrence
+melikheya: [melixeja] DP ni. the patient’s half of
+the act (grammatical, not medical meaning)
+cf. tikkheya
+mem: [mem] DP n. sound
+memas: [memas] DP pn. pronominal version
+of preposition ma
+memat: [memat] DP v. to make a sound
+memras: [memRas] DP pn. pronominal version
+of preposition mra
+memziri: [memziRi] DP ni. bird call, tweet
+menat (1): [men
+at] DP vin. to be empty
+menat (2): [men
+at] DP vtr. to abl. to be empty (of
+something)
+mesat: [mesat] DP vin. to be swollen
+meshat: [meSat] DP vin. to be new
+meshes: [meSes] DP pn. pronominal version of
+preposition she
+mesilat: [mesilat] DP vin. to be pregnant
+mesina: [mesin
+a] DP ni-B. soup
+meso: [meso] DP n. muscle
+mesolat: [mesolat] DP v. to swell
+messhih: [meSSih] DP ni. perlino horse
+messhihven: [meSSihven
+] DP adj. pale skinned
+metorgas: [metoRgas] DP pn. pronominal version of preposition torga
+mevis: [mevis] DP pn. pronominal version of
+preposition vi
+mezahe: [mezahe] DP adj. sexy
+mezahhe: [mezahhe] DP adj. ’hot’, really sexy
+mezhah: [mezhah] DP n. whore
+mhar: [mhar] M adj. sore
+mhari: [mhaRi] DP ni. headache
+mihe: [mihe] DP ni. thorn
+mihesof: [mihesof] DP ni. dagger
+mirges: [miRges] DP pn. pronominal version of
+preposition irge
+mithrat: [miTRat] DP v. to rest
+mithri: [miTRi] DP n. rest
+molethas: [moleTas] DP pn. pronominal version of preposition oleth
+
+14
+
+mori: [moRi] DP pn. they
+moska: [moska] DP n. sack, pack
+moskat: [moskat] DP v. to load, to pack
+movek: [movek] DP na. warlock, magician
+movekkhat: [movexxat] DP vtr. to be intended
+for, to be for
+movelat: [movelat] DP v. to make by hand, to cre-
+
+ate
+mr’: [mR] DP prep. elided version of mra
+mra (1): [mRa] DP prep. to nom. within
+mra (2): [mRa] DP prep. to all. into
+mra (3): [mRa] DP prep. to abl. out of
+mredi: [mRed
+i] DP n. garlic
+
+N
+>
+najah: [n
+adZah] DP adj. victorious
+>
+najahak: [n
+adZahak] DP na. winner
+>
+najahat: [n
+adZahat] DP vin. to be victorious
+>
+najaheya: [n
+adZaheja] DP ni. victory (in battle)
+nakhaan: [n
+axaan
+] DP adv. completely, totally,
+fully (lit. to stopping)
+nakhat: [n
+axat] DP v. to stop
+nakho: [n
+axo] DP ni. end, stop
+nakhok: [naxok] DP adj. the last (functions like
+an ordinal number)
+nakholat: [n
+axolat] DP vin. to end
+naqis: [n
+aqes] DP adj. small
+naqisat: [n
+aqesat] DP vin. to be small
+navat: [n
+avat] DP v. to urinate
+navik: [n
+avik] DP na. beginner
+navilat: [n
+avilat] DP v. to take a little pee
+navvirzethay: [n
+avviRzeTaj] DP adj. ashamed
+nayat: [n
+ajat] DP ni. girl
+neak: [n
+eak] DP adj. long
+negwin: [n
+egwin
+] DP adj. stone
+nem: [n
+em] DP v.aux. passive particle
+nemo: [n
+emo] DP v.aux. reflexive particle
+nerro: [n
+ero] DP ni. foal
+nesat: [n
+esat] DP v. to know (information)
+nesikh: [n
+esix] DP ni. information
+nesolat: [n
+esolat] DP v. to learn
+nevak: [n
+evak] DP na. guest
+nevakh: [n
+evax] DP ni. sitting-spot
+nevalat: [n
+evalat] DP v. to sit
+nevasolat: [n
+evasolat] DP v. to sit down
+nhare: [n
+haRe] DP na. head (of a human)
+
+nhizo: [n
+hizo] DP na. raven
+nhomi: [nhomi] DP na. female dog
+nindi: [n
+in
+d
+i] DP ni. sausage
+ninthqoyi: [n
+in
+TqOji] DP ni. blood sausage
+niqe: [n
+iqE] DP adj. rigid
+niqikkheya: [n
+iqexxeja] DP ni. orgasm
+nirat (1): [n
+iRat] DP vin. to be full
+nirat (2): [n
+iRat] DP vtr. to abl. to be full of (something)
+nirrat: [n
+irat] DP vtr. to fill
+nith: [n
+iT] DP adj. painful
+nithat (1): [n
+iTat] DP vin. to feel pain
+nithat (2): [n
+iTat] DP vtr. to abl. to feel pain from
+a specific source
+nithilat: [n
+iTilat] DP vin. to feel encouraged, to
+feel invigorated
+nithmen: [n
+iTmen
+] DP adj. painless
+nivat: [n
+ivat] DP v. to frown
+niyanqoy: [n
+ijanqOj] DP adv. together
+nizhat: [n
+iZat] DP vin. to be tough
+noah: [n
+oah] DP na. bull
+nofilat: [n
+ofilat] DP v. to wipe
+nokittat: [nokittat] DP v. to trample
+noreth: [n
+oReT] DP ni. hair
+norethaan: [n
+oReTaan
+] DP adv. completely
+notat: [n
+otat] DP v. to turn
+nozho: [n
+oZo] DP ni. chestnut horse
+nozhoven: [n
+oZoven
+] DP adj. brown, brown
+skinned
+nris: [n
+Ris] DP adj. straight
+>
+nroj: [n
+RodZ] DP adj. thick, complex
+>
+nrojat: [n
+RodZat] DP vin. to be thick, complex
+
+15
+
+O
+oakah: [oakah] DP ni. a person’s worth or ability,
+mettle, ’soul’
+>
+ocha: [otSa] DP ni. dun horse
+>
+ochaven: [otSaven
+] DP adj. light skinned
+odaya: [od
+aja] DP n. breast
+oeta: [oeta] DP ni. yam
+ogat: [ogat] DP vtr-B. to slaughter an animal; to
+kill brutally, like slaughtering an animal
+oggo: [oggo] DP na. head (of an animal)
+ohara: [ohaRa] DP ni. daughter
+oharat: [ohaRat] DP v. to fall
+ohazh: [ohaZ] DP adj. heavy
+ohazhat: [ohaZat] DP vin. to be heavy
+ohazho: [ohaZo] DP adj. fermented
+ohazholat: [ohaZolat] DP v. to become heavy, to
+ferment
+ohharat: [ohhaRat] DP vtr. to make something
+fall, to tear down
+oholat: [oholat] DP vin. to be still
+oiro: [oiRo] DP adj. fat
+>
+ojil: [odZil] DP adj. wrong, incorrect
+>
+ojilat: [odZilat] DP v. to be wrong, to be incorrect
+okeo: [okeo] DP na. friend, trustee
+okhat: [oxat] DP v. to ring
+okkat: [okkat] DP vtr. to choose
+okre: [okRe] DP n. tent
+okrenegwin: [okRen
+egwin
+] DP ni. stone house
+oldat: [old
+at] DP v. to rub
+oleth: [oleT] DP prep. to gen. over, above
+olta: [olta] DP ni. hill
+oma: [oma] DP prep. to abl. without
+ondelat: [on
+d
+elat] DP vtr. to wear
+
+onqotha: [on
+qOTa] DP ni. a distance of approximately 1/8 mile
+onqothat: [on
+qOTat] DP v. to walk (horse gait)
+oqet: [oqEt] DP ni. sheep (singular)
+oqo: [oqO] DP ni. beat, rythmic noise
+oqolat: [oqOlat] DP v. to beat, to sound rythmically
+oqooqo: [oqOoqO] DP ni. heartbeat
+ori: [oRi] DP num. eight
+orik: [oRik] DP na. eighth (ordinal, use genitive
+form if modifying a noun.)
+oriken: [oRiken
+] DP num. eight hundred
+oritthi: [oRitTi] DP num. eighteen
+orvik: [oRvik] DP n. whip
+orzi: [oRzi] DP ni. shoe
+orzo: [oRzo] DP ni. trap
+os: [os] DP ni. path, road
+osfir: [osfir] DP ni. round road, ’roundabout’
+oshat: [oSat] DP v. to suck
+oskikh: [oskix] DP adv. yesterday
+osoleth: [osoleT] DP ni. bridge
+ostat: [ostat] DP vtr. to bite
+osto: [osto] DP n. bite
+ovah: [ovah] DP adj. wide, fat
+ovethat: [oveTat] DP v. to fly
+ovrakh: [ovRax] DP ni. opening, opportunity,
+vulnerability
+ovray: [ovRaj] DP adj. loose, moveable, portable
+ovvethat: [ovveTat] DP vtr. to throw, to shoot
+(with bow)
+ovvethikh: [ovveTix] DP ni. goal, destination
+ozzir: [ozzir] DP n. ruby
+ozzirven: [ozziRven
+] DP adj. firey, flashing
+
+Q
+>
+qacha: [qAtSa] DP n. firefly
+qaf: [qAf] DP ni. question
+qafat: [qAfat] DP vtr. to ask
+qahlan: [qAhlan
+] DP ni. palimino horse
+qahlanven: [qAhlan
+ven
+] DP adj. light brown
+skinned
+qamay: [qAmaj] DP adj. wailing
+qana: [qAn
+a] DP n. black stork, stork (of any
+kind)
+qayelat: [qAjelat] DP v. to float
+qazat: [qAzat] DP num. nine
+
+qazatak: [qAzatak] DP na. ninth (ordinal, use
+genitive form if modifying a noun.)
+qazathi: [qAzaTi] DP num. nineteen
+qazatken: [qAzatken
+] DP num. nine hundred
+qazer: [qAzer] DP ni. apple
+qemmemmo: [qEmmemmo] DP adj. mysterions, strange
+qemmo: [qEmmo] DP na. cover
+qemmolat: [qEmmolat] DP v. to cover
+qemmosor: [qEmmosor] DP na. clothes
+qemmotihan: [qEmmotihan
+] DP ni. eyelid
+
+16
+
+qeshah: [qESah] DP ni. sand
+qeso: [qEso] DP ni-A. basket
+qevir: [qEvir] DP n. forest
+qifo: [qefo] DP ni. boar, pig, pork
+qile: [qele] DP n. island
+qisi (1): [qesi] DP prep. to nom. about, concerning
+qisi (2): [qesi] DP adv. near, nearby, close; soon
+qiya: [qeja] M adj. bleeding
+qiyalat: [qejalat] DP vin. to bleed
+qlaseh: [qlaseh] DP na. deer (archaic)
+qora: [qORa] DP na. hand, arm
+qoralat: [qORalat] DP vtr. to seize, to hold
+qorasokh: [qORasox] DP ni. prize, spoils
+qorasolat: [qORasolat] DP vtr. to rape, to take
+
+qorraya: [qOraja] DP ni forearm, ’foot’ (measure)
+qosar: [qOsar] DP n. spider
+qosarven: [qOsaRven
+] DP adj. deceptive
+qosarvenikh: [qOsaRven
+ix] DP ni. lie, trap, deception
+qoth: [qOT] DP adj. repetitive
+qothat: [qOTat] vin. to be loyal, to be repetitive
+qov: [qOv] DP adj. trembling
+qovat: [qOvat] DP vin. to tremble
+qovvolat: [qOvvolat] DP v. to shed
+qoy: [qOj] DP ni. blood
+qoy qoyi: [qOj qOji] DP phrase blood of my blood
+qwehat: [qwehat] DP v. to vomit
+
+R
+>
+rachel: [ratSel] DP na. tiger
+raggat: [raggat] DP vin. to choke (on something)
+rahsan: [rahsan
+] DP adj. bright
+rai: [rai] DP intj. a yell of encouragement, a cheer,
+’hurrah’
+rakh: [rax] M n. boy, lamb (male)
+rakhi: [raxi] DP n. boy (insult)
+ramasar: [ramasar] DP na. land, country,
+plain(s)
+ray (1): [raj] DP adv. already
+ray (2): [raj] DP v.aux. to have (perfect tense introduction)
+rayan: [rajan
+] DP ni. summit, top, plateau
+rea: [rea] DP na. organ (internal body part)
+reaven: [reaven
+] DP adj. purple
+redda: [red
+d
+a] DP adj. thin, sleek
+reddi: [red
+d
+i] DP adj. skinny (perjorative)
+rek (1): [rek] DP dem. adj. that (when speaking
+of an object not present or indirectly indicated)
+rek (2): [rek] DP pn. that (when speaking of an
+animate object not present or indirectly indicated)
+rekak: [rekak] DP dem. pn. that (when speaking of person(s) not present or indirectly
+indicated)
+reki: [reki] DP pn. that (when speaking of an
+inanimate object not present or indirectly
+indicated)
+rekkaan: [rekkaan
+] DP conj. to where
+rekke (1): [rekke] DP loc. adv. there, that place
+
+rekke (2): [rekke] DP conj. where
+rekkoon: [rekkoon
+] DP conj. from where
+remek: [remek] DP adj. asleep
+remekat: [remekat] DP v. to sleep
+renrenoh: [ren
+Ren
+oh] DP adj. hollow
+reri!: [reRi] DP intj. stay! (short for vikoveras,
+for commanding animals)
+rhae: [Rhae] M n. foot, leg
+rhae mhar: [Rhae mhar] M n. sore-foot
+rhaek: [Rhaek] DP na. athlete, stud
+rhaesh: [RhaeS] M na. land, country
+rhaesheser: [RhaeSeser] DP na. world
+rhaesof: [Rhaesof] DP ni. stride, ’yard’ (measure)
+rhaesof Valiri: [Rhaesof valiRi] DP ni. ’meter’
+(measure)
+rhaggat: [Rhaggat] M ni. cart
+rhaggat eveth: [Rhaggat eveT] DP n. ship
+rhanat: [Rhan
+at] DP v. to be merciful
+rhelalat: [Rhelalat] DP vtr. to help
+rhellaya: [Rhellaja] DP ni. help
+rhiko: [Rhiko] DP ni. stirrup
+rhoa: [Rhoa] DP n. animal, beast
+>
+rhojosor: [RhodZosor] DP na. family
+>
+rich: [ritS] DP ni. bubble, swelling
+rigwa: [rigwa] DP n. raisin
+rikh: [rix] DP adj. rotten
+rikholat: [rixolat] DP vin. to rot
+rissat (1): [rissat] DP vtr. to cut (slice)
+rissat (2): [rissat] DP vtr. to abl. to cut into
+riv: [riv] DP n. nose, tip
+
+17
+
+rivvat: [rivvat] DP vtr-B. to smell, to sniff
+rivve: [rivve] DP ni. sniff
+rizh: [riZ] DP na. son
+>
+rochat: [rotSat] DP vtr. to scrape
+
+rof: [rof] DP adj. shriveled
+rokhat: [roxat] DP v. to fear
+
+S
+’sh: [S] DP v.aux. elided version of ish
+>
+saccheya: [sactSeja] DP ni. category, part, piece
+>
+sachat: [satSat] DP v. to split, to divide
+>
+sachi: [satSi] DP ni. half
+>
+sajak: [sadZak] DP na. rider
+>
+sajat: [sadZat] DP vtr. to mount
+>
+sajo: [sadZo] DP na. steed, one’s own horse
+samva: [samva] DP adj. broken
+samven: [samven
+] DP adj. numerous
+samvenolat: [samven
+olat] DP vtr. to surpass
+samvolat: [samvolat] DP vin. to break (when
+something is breakable)
+san (1): [san
+] DP ni. heap, pile
+san (2): [san
+] DP det. to gen. much, many
+san (3): [san
+] DP adv. much, many
+sandi: [san
+d
+i] DP adj. safe
+sanekhi: [san
+exi] DP adv. a lot, many times
+sanneyalat: [san
+n
+ejalat] DP v. to count
+saqoyalat: [saqOjalat] DP vin. to be bloody
+sash: [saS] DP adj. new
+sathoma: [saToma] DP adj. juicy
+sathomakh: [saTomax] DP ni. orange
+save: [save] DP adv. again, back
+savidosalat: [savid
+osalat] DP v. to be protected
+sek: [sek] DP intj. yes
+sekke: [sekke] DP adv. too (much), too much; so,
+really, very
+sekosshi: [sekoSSi] DP adv. surely, certainly
+sen: [sen
+] DP num. three
+senak: [sen
+ak] DP na. third (ordinal, use genitive form if modifying a noun.)
+senken: [sen
+ken
+] DP num. three hundred
+senthi: [sen
+Ti] DP num. thirteen
+seris: [seRis] DP adj. free
+>
+serja: [seRdZa] DP ni. vest
+sewaf: [sewaf] DP n. grape
+sewafikh: [sewafix] DP ni. wine
+shafka: [Safka] DP pn. you (respectful)
+sharat: [SaRat] DP vin. to be healthy
+she (1): [Se] DP prep. to nom. on, upon, in
+she (2): [Se] DP prep. to abl. off of
+she (3): [Se] DP prep. to all. onto
+
+shekh: [Sex] DP ni. sun
+shekh drivo: [Sex d
+Rivo] DP ni. setting sun
+shekhikh: [Sexix] DP ni. light
+shekhikhi: [Sexixi] DP n. little light (A term of
+endearment for a child)
+shekhqoyi: [SexqOji] DP ni. total solar eclipse
+shierak: [SieRak] M na. star
+shierak qiya : [SieRak qeja ] M n. comet
+shigat: [Sigat] DP vin. to snore
+shigi: [Sigi] DP ni-B. snore
+shilak: [Silak] DP na. gossip. busybody
+shilat: [Silat] DP vtr. to know (a person), to be familiar with
+shillat: [Sillat] DP vtr. to trust
+shillolat: [Sillolat] DP vtr. to believe
+shilolat: [Silolat] DP vtr. to meet, to get to know
+shim: [Sim] DP adj. tame
+shin: [Sin
+] DP n. sound of fire going out
+shinat: [Sin
+at] DP v. to burn out, fizzle out
+shiqeth: [SiqET] DP adj. gray
+shiqethi: [SiqETi] DP ni. iron
+shirane: [SiRan
+e] DP ni. beard
+shiro: [SiRo] DP na. scorpion
+sho: [So] DP na. spot
+shokat: [Sokat] DP v. to jump over
+sholat: [Solat] DP v. to mark
+shor: [Sor] DP na. dress, garment worn primarily
+by women
+shor tawakof: [Sor tawakof] DP na. armor (lit.
+steel dress)
+shoven: [Soven
+] DP adj. marked, smudged
+siera: [sieRa] DP na. nephew
+sikhtelat: [sixtelat] DP vtr. to spit
+silak: [silak] DP na. follower, subject
+silat: [silat] DP v. to flash, to gleam
+sillat: [sillat] DP v. to follow
+sille: [sille] DP adv. next
+silokh: [silox] DP adv. tomorrow
+simon: [simon
+] DP na. male relative
+simonof: [simon
+of] DP na. grandfather
+sindarine: [sin
+d
+aRin
+e] DP adv. left
+sindarinekh: [sin
+d
+aRin
+ex] DP ni. left side
+
+18
+
+sisi: [sisi] DP na. lightning
+som (1): [som] DP num. zero
+som (2): [som] DP adj. absent, missing
+sondra: [son
+d
+Ra] DP ni-B. dragon glass (obsidian)
+soqat: [soqAt] DP v. to weave
+soqwi: [soqwi] DP ni. plum
+soqwof: [soqwof] DP ni. plum tree
+
+sorf: [soRf] DP adj. dirty
+sorfo: [soRfo] DP ni. dirt
+sorfosor: [soRfosor] DP na. earth (world)
+soroh: [soRoh] DP intj. halt! (horse command)
+sorohis: [soRohis] DP intj. halt! (command for a
+person)
+sovi: [sovi] DP n. pear
+sovikh: [sovix] DP ni. pear brandy
+
+T
+’th: [T] DP v.aux. elided version of eth
+taoka: [taoka] DP adj. metal
+taso: [taso] DP n. silkworm
+tasokh: [tasox] DP ni. silk
+tat: [tat] DP vtr. to do
+tavat: [tavat] DP v. chop
+tawak: [tawak] DP ni. metal, real, authentic, legitimate
+tehin: [tehin
+] DP n. breed of horse with reddish or
+brown coat
+temme: [temme] DP na. thunder
+thagwa: [Tagwa] DP ni. yogurt made from mare’s
+milk
+thagwash: [TagwaS] DP ni. a dessert made from
+thagwa and eaten with dried fruit
+thash: [TaS] DP adj. soft
+thave: [Tave] DP n. marmot
+thelis: [Telis] DP adj. blue
+theya: [Teja] DP n. nipple (on a teat)
+theyaven: [Tejaven
+] DP adj. pink
+thi: [Ti] DP num. ten
+thif: [Tif] DP adj. narrow
+thik: [Tik] DP na. tenth (ordinal, use genitive
+form if modifying a noun.)
+thikh: [Tix] DP ni-A. task
+thimalat: [Timalat] DP v. to leak
+thir: [Tir] DP adj. alive
+thirat: [TiRat] DP v. to live
+thirat atthiraride: [TiRat aTTiRaRid
+e] DP v. to
+dream (lit. to live a wooden life)
+thirolat: [TiRolat] DP v. to survive
+
+thom: [Tom] DP ni. juice
+tif: [tif] DP n. nut (woody seed)
+tih: [tih] DP na. eye
+tihat: [tihat] DP vtr. to look, to see
+tihikh: [tihix] DP ni. view
+tihikhziri: [tihixziRi] DP ni. overview
+tihilat: [tihilat] DP vtr. to look at, to glance at
+tiholat: [tiholat] DP v. to understand
+tikh: [tix] DP ni. deed, act
+tikkheya: [tixxeja] DP ni. verb, the instigator’s
+half of the act (Grammatical sense) cf. melikheya
+tim: [tim] DP ni. boot
+timvir: [timvir] DP n. book (from High Valyrian
+tembyr)
+tir: [tir] DP ni. finger
+tirat: [tiRat] DP v. to point
+tirikh: [tiRix] DP ni. nail
+tith: [tiT] DP adj. eastern
+titha: [tiTa] DP ni. east
+toki: [toki] DP adj. dumb
+tokik: [tokik] DP na. fool
+tolorro: [toloro] M ni. bone
+tor: [tor] DP num. four
+torak: [toRak] DP na. fourth (ordinal, use genitive form if modifying a noun.)
+torga (1): [toRga] DP ni. stomach
+torga (2): [toRga] DP prep. to gen. under
+torken: [toRken
+] DP num. four hundred
+torthi: [toRTi] DP num. fourteen
+tozara: [tozaRa] DP na. lake
+
+19
+
+V
+vadakherat: [vad
+axeRat] DP v. to feed
+vado (1): [vad
+o] DP ni. turnip
+vado (2): [vad
+o] DP ni. filly
+vaes: [vaes] M ni. city
+vaesilat: [vaesilat] DP v. to clog
+vafi: [vafi] DP ni. lamb (female)
+vafik: [vafik] DP na. lamb girl
+vafikh: [vafix] DP ni. wool
+valad: [valad
+] DP ni. horizon
+valsh: [valS] DP adj. northern
+valshe: [valSe] DP ni. north
+valshek: [valSek] DP na. northerner
+valshtithak: [valStiTak] DP na. northeasterner
+vash: [vaS] DP n. stampede
+vash hrazefmen: [vaS hRazefmen
+] DP n. earthquake
+vasterat: [vasteRat] DP vtr. to speak with, to converse
+vatterat: [vatteRat] DP v. to continue
+vaz: [vaz] DP n. storm
+vazyol: [vazjol] DP ni. stormborn
+vefenarat: [vefen
+aRat] DP v. to pry something off
+of something else
+vekhat: [vexat] DP vin. to be present, to exist (assigns the subject to the genitive)
+vekhikh (1): [vexix] DP ni. object, thing
+vekhikh (2): [vexix] DP na. noun
+vekhikh asavva: [vexix asavva] DP n. animate
+noun
+vekhikh hranna: [vexix hRan
+n
+a] DP n. inanimate noun
+velainerat: [velain
+eRat] DP v. to sow
+veltor: [veltor] DP adj. yellow
+velzerat: [velzeRat] DP v. to stall, to procrastinate
+velzerikh: [velzeRix] DP ni. reason why
+vem: [vem] DP n. knee, elbow
+vemish: [vemiS] DP ni. heel of the hand or foot
+vemishikh: [vemiSix] DP ni. heel of a boot
+ven: [ven
+] DP conj. like, as
+venat: [ven
+at] DP vtr. to be like, to be similar to
+veneser: [ven
+eser] DP na. class, category
+venikh: [ven
+ix] DP ni. semblance
+ver: [ver] DP n. wolf
+verak: [veRak] DP na. traveler
+verakasar: [veRakasar] DP na. caravan
+verat: [veRat] DP v. to travel
+
+verikh: [veRix] DP ni. a defensive strike (with a
+sword)
+verven: [veRven
+] DP adj. violent
+vezh: [veZ] DP na. stallion
+vezhak: [veZak] DP na. horse lord
+vezhven: [veZven
+] DP adj. great
+vi: [vi] DP prep. to all. through, along
+>
+vichiterat: [vitSiteRat] DP vin. to shiver
+>
+vichomer: [vitSomer] DP adj. respectful, respectable
+>
+vichomerak: [vitSomeRak] DP na. respectful one
+>
+vichomerat: [vitSomeRat] DP vin. to be respectful
+vidrogerat: [vid
+RogeRat] DP v. to ride
+vigererat: [vigeReRat] DP vtr. to abl. to miss someone
+>
+vijazerat: [vidZazeRat] DP vtr. to protect
+>
+vijazerolat: [vidZazeRolat] DP vtr. to save, to rescue
+vik: [vik] DP ni. chin
+vikeesi: [vikeesi] DP n. slang for an annoying
+woman
+vikovarerat: [vikovaReRat] DP v. to stay
+vil: [vil] DP v.aux. to manage to
+>
+vilajero: [viladZeRo] DP ni. battle
+>
+vilajerosh: [viladZeRoS] DP ni. game
+villat: [villat] DP vin. to be wise
+ville: [ville] DP adj. wise
+vimatterat: [vimatteRat] DP v. to limp
+vimithrerat: [vimiTReRat] DP v. to rest, to camp
+vindelat (1): [vin
+d
+elat] DP vtr. to stab
+vindelat (2): [vin
+d
+elat] DP vtr. to all. to stab at
+vineserat: [vin
+eseRat] DP vtr. to remember
+vinte: [vin
+te] DP ni. portion of meat
+viqaferat: [viqAfeRat] DP v. to beg, to plead
+virsalat: [viRsalat] DP vin. to burn
+virzeth: [viRzeT] DP adj. red
+virzetha: [viRzeTa] DP ni. red wine
+vish: [viS] DP n. forehead
+vishaferat: [viSafeRat] DP vtr. to break a horse, to
+domesticate a beast of burden, to get ones’ first
+kill with a new weapon
+vishiya: [viSSiya] DP ni. color
+vithalat: [viTalat] DP v. to flow
+vitiherat: [vitiheRat] DP v. to look upon, to stare
+at, to examine, to ponder
+vitihirak: [vitihiRak] DP na. watch, guard
+
+20
+
+vitihirat: [vitihiRat] DP v. to watch, to observe
+vitisherat: [vitiSeRat] DP vin. to grow
+vitteya: [vitteja] DP ni. feast, gathering with a
+feast
+vitteyqoyi: [vittejqOji] DP ni. feast day
+vizhadi: [viZad
+i] DP ni. silver
+vo: [vo] adv. not, no; a shortened variant of
+vos, that may be used when the next word
+starts with a consonant.
+vod: [vod
+] DP ni. dust
+>
+voj: [vodZ] DP na. person
+>
+vojjor: [voddZor] DP ni. deity, god
+vorsa: [voRsa] DP na. fire
+
+vorsakh: [voRsax] DP ni. flame
+vorsaska: [voRsaska] DP ni. summer
+vorsqoyi: [voRsqOji] DP ni. funeral pyre
+vorto: [voRto] DP ni. tooth
+vos: [vos] DP adv. not, no (negator)
+vosan: [vosan
+] DP adv. not much, not a lot
+>
+vosecchi: [vosettSi] DP adv. emphatic negative,
+of course not
+vosi: [vosi] DP ni. nothing
+vosm’: [vosm] DP conj. elided version of vosma
+vosma: [vosma] DP conj. but
+vov: [vov] DP na. weapon
+vrelat: [vRelat] DP v. to leap
+vroz: [vRoz] DP adj. slow
+
+Y
+>
+yachi norethmen: [jatSi n
+oReTmen
+] DP np.
+nectarine
+yalli: [jalli] DP na. child
+yamori: [jamoRi] DP na. youth
+yanqokh: [jan
+qOx] DP ni. collection
+yanqolat (1): [jan
+qOlat] DP vtr. to collect, to gather
+yanqolat (2): [jan
+qOlat] DP vtr. to abl. to gather
+(some of something)
+yarat: [jaRat] DP v. to flinch
+yath: [jaT] DP adj. up, upward, upwards, high
+yathokh: [jaTox] DP ni. ramp
+yatholat: [jaTolat] DP v. to rise
+yeni: [jen
+i] DP ni. failure
+yer: [jeR] DP pn. you
+
+yeri: [jeRi] DP pn. you (plural), your (singular)
+yesi: [jesi] DP na. crone
+yetto: [jetto] DP ni. frog
+yofi: [jofi] DP adj. mad, crazy
+yol: [jol] DP adj. born
+yolat: [jolat] DP vin. to be born
+yom: [jom] DP ni. crossing
+yomat: [jomat] DP vtr. to cross
+yomme (1): [jomme] DP prep. to nom. across
+yomme (2): [jomme] DP prep. to abl. in spite of
+yor: [jor] DP num. million
+yorosor: [joRosor] DP num. an extremely large
+number
+yot: [jot] DP ni. fruit
+yothnhare: [joTn
+haRe] DP ni. brain (human)
+
+Z
+zafra: [zafRa] DP ni. slave
+>
+zajjat: [zaddZat] DP vtr. to refuse to
+zalat: [zalat] DP vtr. to hope for, to want
+zan: [zan
+] DP adj. stable, steadfast
+zande: [zan
+d
+e] DP n. satchel, sack
+zanisshi: [zan
+iSSi] DP ni. shade
+zasqa: [zasqA] DP adj. white
+zerqolat: [zeRqOlat] DP v. to swim
+zhalia: [Zalia] DP ni. butterfly
+zhani: [Zan
+i] DP ni. spear
+zhaqe: [ZaqE] DP n. bass fish
+zhav: [Zav] DP n. lizard
+zhavorsa: [ZavoRsa] DP ni. dragon
+zhavvorsa: [ZavvoRsa] DP ni. dragon (alternate
+
+pronunciation of zhavorsa)
+zheana: [Zean
+a] DP adj. beautiful (for animate
+nouns)
+zheanalat: [Zean
+alat] vin. to be beautiful (used
+for animate nouns)
+zhey: [Zej] DP part. vocative marker
+zhif: [Zif] DP ni. salt
+zhifikh: [Zifix] DP ni. dried salted meat
+zhifven: [Zifven
+] DP adj. salty
+zhikhat: [Zixat] DP v. to be sick
+zhilat: [Zilat] DP vtr. to love someone (used for
+romantic or sexual love; a private word)
+zhille: [Zille] DP det. any
+zhilli: [Zilli] DP adj. general
+
+21
+
+zhillie: [Zillie] DP ni. advice
+zhinda: [Zin
+d
+a] DP num. six
+zhindak: [Zin
+d
+ak] DP na. sixth (ordinal, use genitive form if modifying a noun.)
+zhindaken: [Zin
+d
+aken
+] DP num. six hundred
+zhinthi: [Zin
+Ti] DP num. sixteen
+zhokakkwa: [Zokakkwa] DP adj. enormous
+zhokwa: [Zokwa] DP adj. big
+zhokwalat: [Zokwalat] DP vin. to be large
+zhor (1): [Zor] DP na. heart
+zhor (2): [Zor] DP n. pit of a fruit, meat of a nut
+zhorre: [Zore] DP adj. own
+zhorrof: [Zorof] DP ni. fig (fresh fruit of a fig
+tree)
+zhowak: [Zowak] DP adj. dangerous
+>
+zichome: [zitSome] DP adj. disrespectful
+>
+zifichelat: [zifitSelat] DP v. to steal
+ziganelat: [zigan
+elat] DP v. to burden
+ziganesolat: [zigan
+esolat] DP vtr. to defy, to oppose
+zigere: [zigeRe] DP adj. required, requisite
+zigerelat: [zigeRelat] DP vtr. to abl. to require, to
+need
+
+zimemelat: [zimemelat] DP vtr. to distract
+zin: [zin
+] DP v.aux. still (particle for continuation)
+zinay: [zin
+aj] DP adj. remaining
+ziqwehelat: [ziqwEhelat] DP v. to retch
+zir: [zir] DP n. bird
+zireyeselat: [ziRejeselat] DP vtr. to offend, to
+bug, to jostle
+zirisselat: [ziRisselat] DP vtr. to cut off, to remove
+ziroqoselat: [ziRoqOselat] DP v. to ache
+zirqoyi: [ziRqOji] DP ni. bird of prey, raptor
+zisat: [zisat] DP v. to be hurt
+ziso: [ziso] DP ni. wound
+zisosh: [zisoS] DP ni. scratch
+ziyenelat: [zijen
+elat] DP v. to fail someone
+zoh: [zoh] DP adj. low
+zohhe: [zohhe] DP adv. down, downward, downwards
+zolat: [zolat] DP vin. to be exceptionally small
+zolle: [zolle] DP adv. a little bit, a bit, a small
+amount, some
+zoqwa: [zoqwa] DP n. kiss
+zoqwat: [zoqwat] DP v. to kiss
+zorat: [zoRat] DP v. to roar
+
+22
+
+A
+
+Dothraki Numbers
+
+These are the Dothraki numbers. This is a work in progress! Expect more notes as I learn how
+to better format this section.
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+som
+at
+akat
+sen
+tor
+mek
+zhinda
+fekh
+ori
+qazat
+
+teens
+thi (10)
+atthi
+akatthi
+senthi
+torthi
+mekthi
+zhinthi
+fekhthi
+oritthi
+qazatthi
+
+10
+thi
+chakat
+chisen
+chitor
+chimek
+chizhinda
+chifekh
+chori
+chiqazat
+
+Common numbers
+100
+1000
+ken
+akatken
+senken
+torken
+mekken
+zhindaken
+fekhken
+oriken
+qazatken
+
+dalen
+akat dalen
+sen dalen
+tor dalen
+mek dalen
+zhinda dalen
+fekh dalen
+ori dalen
+qazat dalen
+
+10,000
+
+100,000
+
+million
+yor
+
+Numbers above 20 are composed of (at least) two words, using the connector ma. Ma can
+contract for the last ’digit’ of the number. For example, 21 is chakat ma at, or chakat m’at and
+2,431 is akat dalen ma torken ma chisen ma at, or akat dalen ma torken ma chisen m’at.
+Ordinal number end with the suffix -ak, and are considered animate nouns. mekak, for instance, should be thought of as ’the fifth one’. However, if the ordinal is modifying a noun, use
+the genitive form of the number instead. For instance, hrazef mekaki, ’the fifth horse’.
+Much more information about numbers can be found at David Peterson’s blog entry on
+numbers.
+
+B
+
+Proper Nouns
+
+These are Dothraki proper nouns.
+Dosh Khaleen: [d
+oS xaleen
+] M prop.n. Council
+of crones, group of widowed khaleesi
+Dothraki: [d
+oTRaki] M prop.n. men who ride, the
+Dothraki people
+Dovoeddi: [d
+ovoed
+d
+i] DP n. Unsullied (From
+Astapori Valyrian Dovoghedhy)
+Emrakh Hrazef: [emRax hRazef] DP prop.n.
+Horse Gate
+Haesh Rakhi: [haeS raxi] M prop.n. Lamb Men,
+Lhazareen Lit. ’spawn of lambs’
+Halahisir: [halahisir] DP prop.n. The Arbor
+Havazh Dothraki: [havaZ d
+oTRaki] DP prop.n.
+Dothraki Sea
+Havazzhifi Kazga: [havaZZifi kazga] DP
+prop.n. Black Salt Sea
+>
+Hoyali Jeshi ma Vorsasi: [hojali dZeSi ma voRsasi] DP prop.n. A Song of Ice and Fire
+
+>
+>
+Jeser Jim: [dZeser dZim] DP prop.n. Western
+Market
+>
+Jeser Tith: [dZeser tiT] DP prop.n. Eastern Market
+Rhaesh Andahli: [RhaeS an
+d
+ahli] M prop.n.
+Land of the Andals, Westeros
+>
+Rhaeshi Ajjalani: [RhaeSi addZalan
+i] DP
+prop.n. Night Lands
+Senthisir: [senTisir] DP prop.n. The Thirteen
+Vaes Dothrak: [vaes d
+oTRak] M prop.n. Lit. City of the Dothraki
+Vaes Seris: [vaes seRis] M,DP prop.n. Free Cities
+Vaes Tolorro: [vaes toloro] M prop.n. City of
+Bones
+Vezhof: [veZof] DP prop.n. Great Stallion (Horse deity)
+>
+oRi] DP
+Vilajerosh Adori: [viladZeRoS ad
+prop.n. Game of Thrones
+
+23
+
+The Changelog
+• 3.065 Added chir ’almost, nearly’, frakholat ’to feel’. Edited adakhilat, qazer.
+• 3.066 Added lirak ’tattoo artist’, lirat ’to tattoo’, lirikh ’an image or symbol depicted on a
+tattoo’, lirisir ’tattoos’, tif ’nut (woody seed), zhor (2) ’pit of a fruit, meat of a nut’. Edited
+lir, zhor.
+• 3.067 Added athostar, ’fury’, chosh ’fresh’. Edited shilat.
+• 3.068 Added atholat ’to dry’, hethkat ’tight; ready, prepared’, hethke ’tight; ready, prepared’, marriya ’tool’. Edited memziri. Added some details about type A and B words.
+• 3.069 Added havziven ’lazy’, shokat ’to jump over’, thikh ’task’. Edited marriya
+• 3.070 Added addrekat ’to cause to spill, to spill’, athdrivarido ’nightmare’, athdrivar sheki ’sunset’, atthirarido ’dream’, drekat ’to spill (non-volitional)’, drekolat ’to come to spill,
+to tip over and spill’, hale ’hey!’, rhojosor ’family’ (this has been missing from the dictionary for a very long time!), shekh drivo ’setting sun’. Edited ganat.
+• 3.071 Added temme ’thunder’.
+• 3.072 Added ithkoil ’brittle’, rivve ’sniff’, timvir ’book’.
+• 3.073 Added arrokhat ’to frighten’, filla ’dried plum’, gerikh ’lack’, jadilat ’to approach,
+to come up to’, kimisir ’ancestry’, melat ’to be evil’, shillat ’to trust’, soqwi ’plum’, soqwof
+’plum tree’, vitisherat ’to grow’, zhille ’advice’. Edited yalli.
+• 3.074 Added fredri ’sound of horse’s hooves on dirt’, fredrilat ’to run (with horses as
+subject)’, fredrik ’chatterbox, one who sounds like horse’s hooves’.
+• 3.080 Added some additional information about numbers, as well as a usage note on the
+ordinal numbers. Added addakhat ’to feed’, athzhikhar ’sickness’, efe ’shackle’, ifeqevron ’species of forest spider’, izven ’forbidden’, leqse ’rat’, mezhah ’whore’, qamay ’wailing’,
+qovvolat ’to shed’, sisi ’lightning’. Edited ato.
+• 3.081 Added chafasar ’climate’, chal ’bean (general use)’, challeya ’bean (when used as
+food)’, gillo ’breeze’, gillosor ’weather’.
+• 3.082 Added joro ’idol, icon’, lekh dothraki ’Dothraki (language’.
+• 3.083 Added shirane ’beard’. Edited az.
+• 3.084 Added chomolat (1) ’to grow respectful’, chomolat (2) ’to give respect to, to honor’, jekhtat (1) ’to bounce, to ricochet’, jekhtat (2) ’to bounce off of’, kashi ’time’, shigat
+’to snore’, shigi ’snore’, shillolat ’to believe’, taoka ’metal’, yachi norethmen ’nectarine’.
+Edited fozak (was fozaki), ohazat, qoralat, shilat, shillat.
+• 3.085 Added arrek (2) ’when’, arrekaan ’until’, arrekoon ’from since’, Dovoeddi ’Unsullied’ (proper noun), havon ’bread’, kishi ’our’, rekke (2) ’where’, rekkaan ’to where’, rekkoon ’from where’. Edited arraggat, arranat, arrane, arrek (1), arrissat, che, hezhahat,
+kirekhdirgi, kirekosi, tim. Deleted heshahat. Many of the ’a’ word edits were to fix improper IPA.
+
+24
+
+• 3.085a Updated timvir ’book’ with High Valyrian entyomology. This was incorrectly
+ascribed to tim ’boot’.
+• 3.1 A lot of new words and changes to existing words resulting from the publishing of
+David Peterson’s book, ’Living Languages: Dothraki’. David was consulted on many of
+the discrepancies noted between the book and the wiki/dictionary. Both should now be
+accurate. There are a few cases where the wiki/dictionary is accurate and the book is
+not. These differences will be noted in an errata post on the Dothraki forums. As a lot of
+things were changed, be on the lookout for any formatting errors I might have missed!
+• 3.11 This update incorporates numerous small changes to bring the dictionary and wiki into harmony. With rare exceptions, there were no substantive changes. The only real
+difference now is the wiki does not contain all the number words that are in the dictionary. These will be added to the wiki shortly. Added new words ilme ’vegetable’, ilmeser
+’salad, greens, vegetables’, thave ’marmot’, valad ’horizon’.
+
+25
+
+
